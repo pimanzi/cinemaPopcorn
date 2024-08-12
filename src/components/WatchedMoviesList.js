@@ -1,3 +1,4 @@
+import React from 'react';
 import { WatchedMovie } from './WatchedMovie';
 
 export function WatchedMoviesList({ watched, onDeleteWatched }) {

@@ -1,3 +1,4 @@
+import React from 'react';
 import { average } from './App';
 
 export function WatchedSummary({ watched }) {

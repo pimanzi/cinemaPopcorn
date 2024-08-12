@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import React, { useEffect } from 'react';
 export function useKey(key, action) {
   useEffect(() => {
     function callBack(e) {

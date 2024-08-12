@@ -1,3 +1,4 @@
+import React from 'react';
 export function Movie({ movie, onSelectMovie }) {
   return (
     <li onClick={() => onSelectMovie(movie.imdbID)}>
