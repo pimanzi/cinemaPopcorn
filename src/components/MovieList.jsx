@@ -1,4 +1,3 @@
-import React from 'react';
 import { Movie } from './Movie';
 
 export function MovieList({ movies, onSelectMovie }) {

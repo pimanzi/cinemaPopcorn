@@ -1,6 +1,0 @@
-[build]
-  base = "/"
-  publish = "build"
-  command = "npm run build"
-  node_version = "18.20.4"
-  command = "NODE_OPTIONS=--openssl-legacy-provider npm run build"

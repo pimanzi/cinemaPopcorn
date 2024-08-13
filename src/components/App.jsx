@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Loader } from './Loader';
 import { ErrorMessage } from './ErrorMessage';
 import { NavBar } from './NavBar';
