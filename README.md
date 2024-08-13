@@ -1,6 +1,6 @@
 # CinemaPopcorn
 
-![CinemaPopcorn Logo](https://cinemaapopcorn.netlify.app/favicon.ico)
+
 
 CinemaPopcorn is a React-based web application that allows users to save movies they wish to watch in the future and rate them after watching. The app fetches movie data using the [OMDB API](https://www.omdbapi.com) and is built with Vite for a fast and efficient development experience.
 
