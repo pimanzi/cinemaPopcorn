@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/cinema-popcorn.git
+   git clone https://github.com/pimanzi/cinemaPopcorn.git
    cd cinema-popcorn
 
    ```
@@ -71,3 +71,4 @@ This project is licenced under the MIT licence
 If you have any questions or suggestions , feel free to reach out
 
 - [Email](p.imanzi@alustudent.com)
+- [Github](https://github.com/pimanzi)
